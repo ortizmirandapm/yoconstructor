@@ -1,0 +1,15 @@
+# Configuración local con credenciales
+config.php
+includes/config.php
+.env
+
+# Carpetas de dependencias o caché
+vendor/
+node_modules/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Uploads de usuarios (fotos, CVs, etc.)
+uploads/
