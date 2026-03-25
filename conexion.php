@@ -71,7 +71,7 @@ session_start();
 $dbhost = "localhost";
 $dbusuario = "root";
 $dbpassword = "";
-$db = "bolsa_de_trabajo";
+$db = "yo_constructor";
 
 $conexion = mysqli_connect($dbhost, $dbusuario, $dbpassword, $db);
 
